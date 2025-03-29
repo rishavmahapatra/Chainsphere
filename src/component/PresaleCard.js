@@ -52,7 +52,7 @@ function PresaleCard() {
                   decoding="async"
                   className="absolute top-[-10px] select-none translate-x-[-25%]"
                   style={{ color: "transparent", left: "0%" }}
-                  src="/images/progressIcon.svg"
+                  src="/images/progressIcon.png"
                 />
                 <p className="h-[20px] max-tablet:h-5 bg-[#080A12] rounded-full overflow-hidden">
                   <span
